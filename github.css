@@ -3,12 +3,12 @@
  * Courtesy of GitHub.com
  */
 
-.hll { background-color: #f8f8f8; border: 1px solid #ccc; padding: 6px 10px; border-radius: 3px;  }
-.c { color: #999988; font-style: italic;  }
-.err { color: #a61717; background-color: #e3d2d2;  }
-.k { font-weight: bold;  }
-.o { font-weight: bold;  }
-.cm { color: #999988; font-style: italic;  }
+.hll { background-color: #f8f8f8; border: 1px solid #ccc; padding: 6px 10px; border-radius: 3px; }
+.c { color: #999988; font-style: italic; }
+.err { color: #a61717; background-color: #e3d2d2; }
+.k { font-weight: bold; }
+.o { font-weight: bold; }
+.cm { color: #999988; font-style: italic; }
 .cp { color: #999999; font-weight: bold; }
 .c1 { color: #999988; font-style: italic; }
 .cs { color: #999999; font-weight: bold; font-style: italic; }
